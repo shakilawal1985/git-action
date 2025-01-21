@@ -16,6 +16,6 @@ jobs:
               run: ls
             
             - name: Read the files
-              run: cat readme.md
+              run: cat README.md
             
         
